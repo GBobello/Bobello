@@ -1,5 +1,5 @@
 # Oi meu nome é Gabriel Bobello
-<img src="https://komarev.com/ghpvc/?username=Bemesko&label=Visualizações&color=blue&style=plastic" alt="GBobello!" />
+<img src="https://komarev.com/ghpvc/?username=GBobello&label=Visualizações&color=blue&style=plastic" alt="GBobello!" />
 
 <a align="center" href="https://www.linkedin.com/in/gabriel-bobello-66b905196/">
   <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
