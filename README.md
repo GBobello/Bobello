@@ -2,10 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=GBobello&label=Visualizações&color=blue&style=plastic" alt="GBobello!" />
 
 <a align="center" href="https://www.linkedin.com/in/gabriel-bobello-66b905196/">
-  <img alt="Linkedin" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a align="center" href="mailto:bobello.gabriel@gmail.com?subject=Olá%Gabriel,%20do%20Github">
-  <img alt="Email me!" width="22px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" />
+  <img alt="Email me!" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 ## Meus gráficos
