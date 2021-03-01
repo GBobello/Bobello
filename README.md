@@ -1,4 +1,4 @@
-# Oi meu nome é Gabriel Bobello
+# Meu nome é Gabriel Bobello
 <img src="https://komarev.com/ghpvc/?username=GBobello&label=Visualizações&color=blue&style=plastic" alt="GBobello!" />
 
 <a align="center" href="https://www.linkedin.com/in/gabriel-bobello-66b905196/">
