@@ -13,14 +13,28 @@
 
 ## Meus gráficos
 
+
+
+
 <a href="https://github.com/GBobello">
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=GBobello&&show_icons=true&hide_title=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=DEG,282854,4B2C4D" />
 </a>
+
+
+
 <a href="https://github.com/GBobello?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBobello&hide_title=true&hide_border=true&text_color=daf7dc&bg_color=DEG,4B2C4D,592E34&theme=graywhite" />
 </a>
 
+
+
+
+
 ## Meus projetos
+
+
+
+
 
 <a href="https://github.com/IFChat/ifchat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IFChat&repo=ifchat&theme=dark" />
