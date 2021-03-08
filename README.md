@@ -35,6 +35,10 @@
   <img alt="Email me!" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 <a align="center" href="https://www.instagram.com/bob3ll0/">
-  <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
+  <img alt="Personal Instagram" src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
+<a align="center" href="https://www.instagram.com/gb_tech_ltda/">
+  <img alt="Bussiness Instagram" src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+
 
