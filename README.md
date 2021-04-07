@@ -19,7 +19,7 @@
 
 ## Github projects
 
-<a href="https://github.com/IFChat/ifchat">
+<a href="https://github.com/GBobello/ifchat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IFChat&repo=ifchat&theme=dark" />
 </a>
 <a href="https://github.com/GBobello/historia-judo-gb">
