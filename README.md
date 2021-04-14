@@ -25,6 +25,10 @@
 <a href="https://github.com/GBobello/historia-judo-gb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GBobello&repo=historia-judo-gb&theme=dark" />
 </a>
+<a href="https://github.com/GBobello/Splash-Screen-Multi-Devices-Delphi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GBobello&repo=Splash-Screen-Multi-Devices-Delphi&theme=dark" />
+</a>
+
 
 ## My contacts
 
