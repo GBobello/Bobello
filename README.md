@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=GBobello&label=Visualizações&color=blue&style=plastic" alt="GBobello!" />
 
 ## About me
- - 📚 I'm studying at the Federal Institute of Santa Catarina
  - 👨‍💻 I'm employed as a programmer at SCI Sistemas Contábeis
  - 📒✔️2021 Goals: Learn ReactJS, React-Native, NodeJs and Python
  - ☁️Dreams: Work as a front-end and full stack developer
