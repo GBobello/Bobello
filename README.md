@@ -22,6 +22,9 @@
 <a href="https://github.com/GBobello/ifchat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IFChat&repo=ifchat&theme=dark" />
 </a>
+<a href="https://github.com/GBobello/nlw5-plantmanager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GBobello&repo=nlw5-plantmanager&theme=dark" />
+</a>
 <a href="https://github.com/GBobello/historia-judo-gb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GBobello&repo=historia-judo-gb&theme=dark" />
 </a>
