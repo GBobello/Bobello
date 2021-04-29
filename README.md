@@ -6,6 +6,18 @@
  - 👨‍💻 I'm employed as a programmer at SCI Sistemas Contábeis
  - 📒✔️2021 Goals: Learn python and JS
  - ☁️Dreams: Work as a front-end and full stack developer
+ 
+ ## My contacts
+
+<a align="center" href="https://www.linkedin.com/in/gabriel-bobello-66b905196/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a align="center" href="mailto:bobello.gabriel@gmail.com?subject=Olá%Gabriel,%20do%20Github">
+  <img alt="Email me!" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+<a align="center" href="https://www.instagram.com/bob3ll0/">
+  <img alt="Personal Instagram" src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
 
 ## Github status
 
@@ -35,18 +47,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GBobello&repo=Sistema-para-retornar&theme=dark" />
 </a>
 
-
-
-## My contacts
-
-<a align="center" href="https://www.linkedin.com/in/gabriel-bobello-66b905196/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a align="center" href="mailto:bobello.gabriel@gmail.com?subject=Olá%Gabriel,%20do%20Github">
-  <img alt="Email me!" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-<a align="center" href="https://www.instagram.com/bob3ll0/">
-  <img alt="Personal Instagram" src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
-</a>
 
 
