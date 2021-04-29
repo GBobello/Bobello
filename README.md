@@ -4,7 +4,7 @@
 ## About me
  - 📚 I'm studying at the Federal Institute of Santa Catarina
  - 👨‍💻 I'm employed as a programmer at SCI Sistemas Contábeis
- - 📒✔️2021 Goals: Learn python and JS
+ - 📒✔️2021 Goals: Learn ReactJS, React-Native, NodeJs and Python
  - ☁️Dreams: Work as a front-end and full stack developer
  
  ## My contacts
